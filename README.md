@@ -17,11 +17,11 @@ ARCL aims at scientific impact and its translation into practical implementation
   <tr>
     <td align="center" width="50%">
       <img src="readme_assets/HSG.png" height="80" alt="Universität St.Gallen Logo"><br>
-      <b>Universität St.Gallen (HSG)</b>
+      <b>Universität St.Gallen</b>
     </td>
     <td align="center" width="50%">
       <img src="readme_assets/Unil.png" height="80" alt="Unil Logo"><br>
-      <b>Unil – University of Lausanne</b>
+      <b>University of Lausanne</b>
     </td>
   </tr>
   <tr>
@@ -31,7 +31,7 @@ ARCL aims at scientific impact and its translation into practical implementation
     </td>
     <td align="center" width="50%">
       <img src="readme_assets/OSAR.png" height="80" alt="OSAR Logo"><br>
-      <b>Schweizerische Flüchtlingshilfe – Organisation suisse d’aide aux réfugiés (OSAR)</b>
+      <b>Swiss Refugee Council (OSAR)</b>
     </td>
   </tr>
 </table>
